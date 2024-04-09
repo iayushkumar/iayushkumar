@@ -13,6 +13,22 @@
     </a>
 </p>
 
+
+
+<p align="right">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-43a5811b0/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <br/>
+    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kayush395" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    </a>
+</p>
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
